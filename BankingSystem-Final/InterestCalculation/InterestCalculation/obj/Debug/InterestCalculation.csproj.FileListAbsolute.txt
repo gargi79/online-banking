@@ -1,0 +1,6 @@
+C:\Users\Aftab\source\repos\InterestCalculation\InterestCalculation\bin\Debug\InterestCalculation.dll
+C:\Users\Aftab\source\repos\InterestCalculation\InterestCalculation\bin\Debug\InterestCalculation.pdb
+C:\Users\Aftab\source\repos\InterestCalculation\InterestCalculation\obj\Debug\InterestCalculation.csproj.AssemblyReference.cache
+C:\Users\Aftab\source\repos\InterestCalculation\InterestCalculation\obj\Debug\InterestCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Aftab\source\repos\InterestCalculation\InterestCalculation\obj\Debug\InterestCalculation.dll
+C:\Users\Aftab\source\repos\InterestCalculation\InterestCalculation\obj\Debug\InterestCalculation.pdb

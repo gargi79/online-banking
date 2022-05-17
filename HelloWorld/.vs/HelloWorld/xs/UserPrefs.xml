@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{4CA633C3-8A52-4644-BD6D-590386C5004E}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Angle.cs" Line="25" Column="1" />
+      <File FileName="BasicMessageClass.cs" Line="46" Column="2" />
+      <File FileName="Program.cs" Line="105" Column="2" />
+      <File FileName="LinkedList.cs" />
+      <File FileName="LinkedListNode.cs" />
+      <File FileName="AngleStruct.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

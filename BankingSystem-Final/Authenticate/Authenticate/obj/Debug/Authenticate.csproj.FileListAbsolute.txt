@@ -1,0 +1,6 @@
+C:\Users\Aftab\source\repos\Authenticate\Authenticate\bin\Debug\Authenticate.dll
+C:\Users\Aftab\source\repos\Authenticate\Authenticate\bin\Debug\Authenticate.pdb
+C:\Users\Aftab\source\repos\Authenticate\Authenticate\obj\Debug\Authenticate.csproj.AssemblyReference.cache
+C:\Users\Aftab\source\repos\Authenticate\Authenticate\obj\Debug\Authenticate.csproj.CoreCompileInputs.cache
+C:\Users\Aftab\source\repos\Authenticate\Authenticate\obj\Debug\Authenticate.dll
+C:\Users\Aftab\source\repos\Authenticate\Authenticate\obj\Debug\Authenticate.pdb

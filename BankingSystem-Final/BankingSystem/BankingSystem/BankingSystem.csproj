@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Authenticate">
+      <HintPath>..\..\Authenticate\Authenticate\bin\Debug\Authenticate.dll</HintPath>
+    </Reference>
+    <Reference Include="InterestCalculation">
+      <HintPath>..\..\InterestCalculation\InterestCalculation\bin\Debug\InterestCalculation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

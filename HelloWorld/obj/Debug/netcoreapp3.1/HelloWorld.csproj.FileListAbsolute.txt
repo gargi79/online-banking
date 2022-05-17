@@ -1,0 +1,13 @@
+/Users/garhgajsingh/Desktop/cpts321-in-class-exercise/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/garhgajsingh/Desktop/cpts321-in-class-exercise/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/garhgajsingh/Desktop/cpts321-in-class-exercise/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/garhgajsingh/Desktop/cpts321-in-class-exercise/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/garhgajsingh/Desktop/cpts321-in-class-exercise/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/garhgajsingh/Desktop/cpts321-in-class-exercise/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.AssemblyReference.cache
+/Users/garhgajsingh/Desktop/cpts321-in-class-exercise/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/garhgajsingh/Desktop/cpts321-in-class-exercise/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/garhgajsingh/Desktop/cpts321-in-class-exercise/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/garhgajsingh/Desktop/cpts321-in-class-exercise/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/garhgajsingh/Desktop/cpts321-in-class-exercise/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/garhgajsingh/Desktop/cpts321-in-class-exercise/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/garhgajsingh/Desktop/cpts321-in-class-exercise/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
