@@ -31,5 +31,4 @@ ii)List of usernames and passwords:
 2. Garhgaj 799@ User
 3. Singh 98765 Employee
 
-Location of File: Inside BankingSytem Folder
-C:\Users\garhg\Desktop\cpts321-in-class-exercise\BankingSystem-Final\BankingSystem
+
